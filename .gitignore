@@ -1,0 +1,4 @@
+*.txt
+
+secrets/ 
+# 이 디렉토리는 아예 무시한다. -> git status 로 해도 무시함
